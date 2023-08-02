@@ -1,2 +1,5 @@
-# Simply-Drums
-This is a website to play the drum and enjoy the music
+# Drum-kit
+
+If you love to play drum....
+bang on... Click here..
+https://shagunmishra.github.io/Drum-kit/
